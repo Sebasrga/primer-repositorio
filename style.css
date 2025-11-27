@@ -1,9 +1,19 @@
+
+
 .foto-logo {
     width: 10vw;
-
-
 }
 
 h1{
-    color: red;
+    color: greenyellow;
+}
+
+.contenedor{
+        width: 100vh;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    
 }
